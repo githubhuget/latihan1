@@ -1,5 +1,6 @@
 body{
     font-family: arial, helvetica, sans-serif;
+    background:goldenrod;
 }
 #tabel-hero{
     border-collapse: collapse;
@@ -8,4 +9,7 @@ body{
 .link {
     color:black;
     text-decoration: underline;
+}
+#tabel-hero {
+    font-size: 32px;
 }
