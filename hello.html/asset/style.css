@@ -1,8 +1,11 @@
+body{
+    font-family: arial, helvetica, sans-serif;
+}
 #tabel-hero{
     border-collapse: collapse;
 }
 
 .link {
-    color: aqua;
+    color:black;
     text-decoration: underline;
 }
