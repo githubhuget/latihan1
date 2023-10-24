@@ -1,16 +1,23 @@
 body{
-    font-family: arial, helvetica, sans-serif;
-    background:goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    background : blue;
 }
-#tabel-hero{
+#table-hero {
     border-collapse: collapse;
-    background-image: url();
+    background-image: url(background.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
 }
+
 
 .link {
     color:black;
     text-decoration: underline;
 }
-#tabel-hero {
-    font-size: 32px;
+.center-table {
+    margin: 0 auto;
 }
