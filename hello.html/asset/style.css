@@ -53,21 +53,21 @@ body {
     font-weight: bold;
     text-decoration: none;
 }
-.blog-content {
+.blog-single{
     float: right;
-    max-width: 380px;
-    margin-right: 20px;
+    max-width: 320px;
+    margin-right: 500px;
     margin-left: 10px;
     margin-bottom: 20px;
 }
-.blog-content img {
-    width: 300px;
-    height: 180px;
+.blog-single img {
+    width: 720px;
+    height: 400px;
     object-fit: cover;
 }
 .recent-article {
     padding-left: 10px;
-    padding-right: 100px;
+    padding-right: 10px;
 }
 .recent-article ul {
     padding:0;
