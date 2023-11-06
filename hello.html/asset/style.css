@@ -10,7 +10,7 @@ body {
     padding-right: 10px;
     padding-left: 10px;
 
-    background-color: #bdc3c7;
+    background-color:white;
 }
 .sidebar {
     width: 400px;
@@ -48,7 +48,7 @@ body {
 }
 #menu li a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #34495e;
+    color: #f6f7f8;
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
