@@ -1,33 +1,22 @@
 <?php
-operator Aritmatika
-$x = 10 ;
-$y = 20 ;
-    echo $x + $y ;
-    echo $x - $y ;
-    echo $x * $y ;
-    echo $x / $y ;
-    echo $x % $y ;
 
-    $nama_depan = "Teguh";
-    $nama_belakang = "Firmansyah";
+var_dump (1 < 5) ;
+    echo "</br>";
+var_dump (2 > 5) ;
+    echo "</br>";
+var_dump (3 <= 5) ;
+    echo "</br>";
+var_dump (4 >= 5) ;
+    echo "</br>";
+var_dump (5 == 5) ;
+    echo "</br>";
+var_dump (6 != 5) ;
+    echo "</br>";   
 
-    echo $nama_depan . "" . $nama_belakang;
 
-    echo "Hello, Selamat Datang $Teguh </br>";
-    echo 'Hello, Selamat Datang $Teguh';
+var_dump (1 === "1");
+var_dump (2 !== "2");
 
-    ?>
-
-    <!DOCTYPE html>
-
-    <html>
-    <head>
-        <title>
-            Belajar PHP
-        </title>    
-    </head>
-    <body> 
-        <h1>Hallo, Selamat Datang <?php echo $Teguh; ?></h1>
-        
-   </body>
-   </html>
+$x = 10;
+var_dump($x < 20 && $x % 2 == 0);
+var_dump($x % 2 === 0|| $x % 5 === 0);
