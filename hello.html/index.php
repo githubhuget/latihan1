@@ -1,7 +1,15 @@
 <?php
+operator Aritmatika
+$x = 10 ;
+$y = 20 ;
+    echo $x + $y ;
+    echo $x - $y ;
+    echo $x * $y ;
+    echo $x / $y ;
+    echo $x % $y ;
 
     $nama = "Teguh";
-    
+
     echo "Hello, Selamat Datang $Teguh </br>";
     echo 'Hello, Selamat Datang $Teguh';
 
