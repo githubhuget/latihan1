@@ -8,7 +8,10 @@ $y = 20 ;
     echo $x / $y ;
     echo $x % $y ;
 
-    $nama = "Teguh";
+    $nama_depan = "Teguh";
+    $nama_belakang = "Firmansyah";
+
+    echo $nama_depan . "" . $nama_belakang;
 
     echo "Hello, Selamat Datang $Teguh </br>";
     echo 'Hello, Selamat Datang $Teguh';
