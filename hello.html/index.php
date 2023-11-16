@@ -1,6 +1,10 @@
 <?php
 
     $nama = "Teguh";
+    
+    echo "Hello, Selamat Datang $Teguh </br>";
+    echo 'Hello, Selamat Datang $Teguh';
+
     ?>
 
     <!DOCTYPE html>
