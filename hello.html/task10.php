@@ -16,7 +16,7 @@ function hitunggrade($nilai) {
         return 'Nilai tidak valid';
     }
 }
-$nilaiMahasiswa = 89;
+$nilaiMahasiswa = 100;
 $grade = hitungGrade($nilaiMahasiswa);
 
 echo "Nilai Mahasiswa : $nilaiMahasiswa <br>";
